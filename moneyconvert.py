@@ -9,7 +9,7 @@ elif money[0:3] in ['RMB']:
 	result_USD = eval(money[3:]) / 6.78
 	print ("USD{:.2f}".format(result_USD))
 
-	
+"""	
 货币转换 I 
 描述
 
@@ -36,3 +36,4 @@ elif money[0:3] in ['RMB']:
 示例1：USD18.14
 
 示例2：RMB135.60
+"""
