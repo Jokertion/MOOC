@@ -7,7 +7,7 @@ if length[-1] in ['m']:
 elif length[-2:] in ['in']:
 	meter = (eval(length[:-2]))/39.37
 	print ('{:.3f}m'.format(meter))
-	
+"""	
 长度转换
 I
 描述:
@@ -35,4 +35,4 @@ I
  输入	输出
 10m       393.700in
 20in       0.508m
-
+"""
