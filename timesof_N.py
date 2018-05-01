@@ -8,7 +8,8 @@ print(pow(x,5))
 x = eval(input())  
 for i in range(6):  
     print(pow(x, i), end = ' ')  
-
+    
+    
 """
 N的多次方 
 描述
