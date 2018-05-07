@@ -23,5 +23,7 @@ for i in range(len(datals)):
           t.left(datals[i][2])
 		
 """经验教训：
-接口的信息(data.txt)不能复制粘贴，必须一个数字一个字的敲进去，不然程序读不出来。会一直报错SyntaxError: unexpected EOF while parsing
-测试了好长时间，原来复制粘贴文本里也有记录 T_T """	
+接口的信息(data.txt)不能复制粘贴，必须一个数字一个字的敲进去，
+不然程序读不出来。会一直报错SyntaxError: unexpected EOF while parsing
+测试了好长时间，原来复制粘贴文本里也有记录 T_T
+"""	
