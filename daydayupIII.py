@@ -8,7 +8,7 @@ difference = int(dayup//daydown)
 
 print ("{:.2f},{:.2f},{}".format(dayup,daydown,difference))
 
-'''
+"""
 天天向上的力量 III
 
 描述
@@ -38,4 +38,4 @@ print ("{:.2f},{:.2f},{}".format(dayup,daydown,difference))
 示例1：
 
 1.44,0.69,2 
-'''
+"""
