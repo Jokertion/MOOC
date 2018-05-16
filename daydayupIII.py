@@ -11,7 +11,7 @@ print ("{:.2f},{:.2f},{}".format(dayup,daydown,difference))
 """
 天天向上的力量 III
 
-描述
+描述：
 
 一年365天，以第1天的能力值为基数，记为1.0。
 
@@ -23,19 +23,10 @@ print ("{:.2f},{:.2f},{}".format(dayup,daydown,difference))
 
 使用input()获得N。
 
- 
-
+示例：
 输入
-
-示例1：
-
 1
 
- 
-
 输出
-
-示例1：
-
 1.44,0.69,2 
 """
