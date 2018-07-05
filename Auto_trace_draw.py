@@ -5,7 +5,7 @@ t.setup(800,600,0,0)
 t.pencolor("red")
 t.pensize(5)
 
-#数据读取
+#读取数据
 datals = []
 f= open("data.txt")
 for line in f:
